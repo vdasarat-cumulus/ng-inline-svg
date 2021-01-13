@@ -128,3 +128,5 @@ export class SVGConfig extends InlineSVGConfig {
   }
 }
 ```
+
+Fork
